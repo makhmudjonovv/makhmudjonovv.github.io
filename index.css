@@ -1,0 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container .card-body .card-title {
+    font-size: 36px;
+}
